@@ -3,7 +3,7 @@
 Add-PSSnapin "Microsoft.SharePoint.Powershell" -ErrorAction SilentlyContinue
 
 # email configuration
-$email = "kyle@oldrivercreative.com"
+$email = "hi@test.com"
 $subject = "SharePoint 2013 SMTP Test"
 $body = "This is a test email originating from the SharePoint 2013 web application server. Please disregard."
 
